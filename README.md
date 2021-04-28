@@ -1,5 +1,7 @@
 # 3 Way CRUD
 
+First of all, this was made in the course of Data bases 2 by Stefano Gerli, jimmy mok, David Salazar, Arturo Vasquez and me in the 2019.
+
 # Requerimientos
 - Python 3.7+. Verificar quie se este usando esta `python --version`. En algunos casos puede ser necesario usar la direccion completa del ejecutable.
 
