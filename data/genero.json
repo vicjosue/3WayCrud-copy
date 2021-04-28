@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Drama"
+  },
+  {
+    "id": 2,
+    "nombre": "Acción"
+  },
+  {
+    "id": 3,
+    "nombre": "Ficción"
+  },
+  {
+    "id": 4,
+    "nombre": "Fantasía"
+  },
+  {
+    "id": 5,
+    "nombre": "Musical"
+  }
+]

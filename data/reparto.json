@@ -1,0 +1,74 @@
+[
+  {
+    "idPelicula": 1,
+    "idActor": 4,
+    "personaje": "Jack",
+    "calificacion": 10
+  },
+  {
+    "idPelicula": 1,
+    "idActor": 5,
+    "personaje": "Rose",
+    "calificacion": 10
+  },
+  {
+    "idPelicula": 2,
+    "idActor": 5,
+    "personaje": "Sylvia Llewelyn",
+    "calificacion": 10
+  },
+  {
+    "idPelicula": 2,
+    "idActor": 6,
+    "personaje": "Sir James Mathew",
+    "calificacion": 10
+  },
+  {
+    "idPelicula": 3,
+    "idActor": 7,
+    "personaje": "Neo",
+    "calificacion": 8
+  },
+  {
+    "idPelicula": 4,
+    "idActor": 1,
+    "personaje": "Jake Sully",
+    "calificacion": 7
+  },
+  {
+    "idPelicula": 4,
+    "idActor": 2,
+    "personaje": "Neytiri",
+    "calificacion": 7
+  },
+  {
+    "idPelicula": 5,
+    "idActor": 6,
+    "personaje": "Willy Wonka",
+    "calificacion": 10
+  },
+  {
+    "idPelicula": 5,
+    "idActor": 8,
+    "personaje": "Charlie Bucket",
+    "calificacion": 9
+  },
+  {
+    "idPelicula": 6,
+    "idActor": 6,
+    "personaje": "Jack Sparrow",
+    "calificacion": 8
+  },
+  {
+    "idPelicula": 6,
+    "idActor": 9,
+    "personaje": "Will Turner",
+    "calificacion": 7
+  },
+  {
+    "idPelicula": 6,
+    "idActor": 10,
+    "personaje": "Elizabeth Swann",
+    "calificacion": 7
+  }
+]

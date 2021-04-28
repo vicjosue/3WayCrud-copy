@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sam Worthington",
+    "pais": "Inglaterra",
+    "nacimiento": 1976
+  },
+  {
+    "id": 2,
+    "nombre": "Zoe Saldana",
+    "pais": "USA",
+    "nacimiento": 1978
+  },
+  {
+    "id": 3,
+    "nombre": "Sigourney Weaver",
+    "pais": "USA",
+    "nacimiento": 1949
+  },
+  {
+    "id": 4,
+    "nombre": "Leonardo DiCaprio",
+    "pais": "USA",
+    "nacimiento": 1974
+  },
+  {
+    "id": 5,
+    "nombre": "Kate Winslet",
+    "pais": "Inglaterra",
+    "nacimiento": 1975
+  },
+  {
+    "id": 6,
+    "nombre": "Johnny Depp",
+    "pais": "USA",
+    "nacimiento": 1963
+  },
+  {
+    "id": 7,
+    "nombre": "Keanu Reeves",
+    "pais": "Libano",
+    "nacimiento": 1964
+  },
+  {
+    "id": 8,
+    "nombre": "Freddie Highmore",
+    "pais": "Inglaterra",
+    "nacimiento": 1992
+  },
+  {
+    "id": 9,
+    "nombre": "Orlando Bloom",
+    "pais": "Inglaterra",
+    "nacimiento": 1977
+  },
+  {
+    "id": 10,
+    "nombre": "Keira Knighley",
+    "pais": "Inglaterra",
+    "nacimiento": 1985
+  },
+  {
+    "id": 11,
+    "nombre": "Test1",
+    "pais": "Costa Rica",
+    "nacimiento": 1984
+  },
+  {
+    "id": 12,
+    "nombre": "Test3",
+    "pais": "Alemania",
+    "nacimiento": 1999
+  },
+  {
+    "id": 13,
+    "nombre": "Test4",
+    "pais": "Costa Rica",
+    "nacimiento": 1998
+  },
+  {
+    "id": 14,
+    "nombre": "Test5",
+    "pais": "Brasil",
+    "nacimiento": 1990
+  },
+  {
+    "id": 15,
+    "nombre": "Test6",
+    "pais": "Costa Rica",
+    "nacimiento": 1999
+  },
+  {
+    "id": 16,
+    "nombre": "Test7",
+    "pais": "Costa Rica",
+    "nacimiento": 1998
+  },
+  {
+    "id": 17,
+    "nombre": "Test8",
+    "pais": "Nicaragua",
+    "nacimiento": 1778
+  }
+]

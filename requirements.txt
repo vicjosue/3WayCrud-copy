@@ -1,0 +1,6 @@
+Flask
+flask-cors
+SQLAlchemy
+flask-sqlalchemy
+pyodbc
+Flask-PyMongo
